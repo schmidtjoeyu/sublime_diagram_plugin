@@ -22,10 +22,10 @@ To install from scratch, it's necessary to have:
 
 * Java (download from java.sun.com) 
 * Graphviz (I recommend "homebrew" on the Mac)
-* Add Java and Graphviz environment variables
+* Add Java and Graphviz to Environment Variables
 * Sublime Text 2 or 3
-* Sublime Text -> preferences -> package control -> add repository:
-* Sublime Text -> preferences -> package control -> install package:
+* Sublime Text -> Preferences -> Package Control -> Add Repository
+* Sublime Text -> Preferences -> Package Control -> Install Package: PlantUmlDiagrams
 
 To install, just put a checkout of this project into your Packages directory in
 Sublime Text.
